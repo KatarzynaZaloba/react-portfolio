@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "movie project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project honed my teamwork and communication skills, allowing me to contribute ideas, give feedback, and resolve conflicts effectively.",
+    url: "https://adrianjar.github.io/movie-project/#/movies",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Blog",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I share my passion for programming, document my experiences, and showcase my learning progress after every repeating. It's in Polish.",
+    url: "https://katarzynazaloba.github.io/blog/",
   },
   {
-    title: "My Resume Site",
+    title: "mojaAlivia",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " It is a platform dedicated to cancer patients, aimed at facilitating their quick access to doctors and medical procedures in healthcare facilities throughout Poland. ",
+    url: "https://moja.alivia.org.pl/",
   },
 ];
 
